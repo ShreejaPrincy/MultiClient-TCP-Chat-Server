@@ -32,8 +32,7 @@ MultiClient-TCP-Chat-Server/
 ├── server.cpp
 ├── client.cpp
 ├── README.md
-└── screenshots/
-    └── chat_output.png
+└── chat_output.png
 ```
 
 ## How to Compile
